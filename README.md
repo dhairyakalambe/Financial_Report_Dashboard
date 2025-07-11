@@ -47,11 +47,11 @@ The dataset used is `Financial Sample.xlsx` — a sample financial dataset conta
 
 ## 📷 Screenshots
 
-### Top Half View
+### Metrics View
 
 ![Dashboard Top](./Screenshot1.png)
 
-### Full View
+### Slicer View
 
 ![Dashboard Full](./Screenshot2.png)
 
